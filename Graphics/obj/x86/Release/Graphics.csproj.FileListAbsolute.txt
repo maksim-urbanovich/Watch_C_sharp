@@ -1,0 +1,7 @@
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\bin\Release\Graphics.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\bin\Release\Graphics.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\obj\x86\Release\Graphics.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\obj\x86\Release\Graphics.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\obj\x86\Release\Graphics.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\obj\x86\Release\Graphics.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Graphics\Graphics\obj\x86\Release\Graphics.pdb
